@@ -11,3 +11,4 @@ User B: we are going to resolve this conflict.
 
 test
 #########################  Mate changes below. Do not remove the header #######################
+user2 adding
